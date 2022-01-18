@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Courier New", Courier;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to right, #4158d0 0%, #c850c0 46%, #ffcc70 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+button {
+  cursor: pointer;
+}
